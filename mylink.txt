@@ -2,16 +2,16 @@
 CCTV-1 综合,https://node3.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV-4 中文国际,http://43.132.64.50/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078303.m3u8
 CCTV-8 电视剧,https://node3.olelive.com:6443/live/CCTV8HD/hls.m3u8
-山东卫视,http://111.225.115.28:808/tsfile/live/1018_1.m3u8
-浙江卫视,http://111.225.115.28:808/tsfile/live/1011_1.m3u8
-江苏卫视,http://111.225.115.28:808/tsfile/live/1012_1.m3u8
-湖北卫视,http://111.225.115.28:808/tsfile/live/1010_1.m3u8
+山东卫视,http://43.132.64.50/outlivecloud-cdn.ysp.cctv.cn/ysp/2024171603.m3u8
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+江苏卫视,http://43.132.64.50/outlivecloud-cdn.ysp.cctv.cn/ysp/2024171103.m3u8
+湖南卫视,https://z02.ubtvfans.com/live/rx1/226/55a22545744461ea0ae4b1df0869aade/index.m3u8
 
 备用,#genre#
-CCTV-1 综合,http://110.7.128.34:8096/tsfile/live/0001_1.m3u8
-CCTV-4 中文国际,http://110.7.128.34:8096/tsfile/live/0004_1.m3u8
-CCTV-8 电视剧,http://110.7.128.34:8096/tsfile/live/0008_1.m3u8
-山东卫视,http://110.7.128.34:8096/tsfile/live/0131_1.m3u8
-浙江卫视,http://110.7.128.34:8096/tsfile/live/0124_1.m3u8
-江苏卫视,http://110.7.128.34:8096/tsfile/live/0127_1.m3u8
-湖北卫视,http://110.7.128.34:8096/tsfile/live/0132_1.m3u8
+CCTV-1 综合,http://118.144.105.55:91/live/CCTV1hd-5M/live.m3u8
+CCTV-4 中文国际,http://118.144.105.55:91/live/CCTV4hd-5M/live.m3u8
+CCTV-8 电视剧,http://118.144.105.55:91/live/CCTV8hd-5M/live.m3u8
+山东卫视,http://118.144.105.55:91/live/SDWShd-5M/live.m3u8
+浙江卫视,http://118.144.105.55:91/live/ZJWShd-5M/live.m3u8
+江苏卫视,http://118.144.105.55:91/live/JSWShd-5M/live.m3u8
+湖南卫视,http://118.144.105.55:91/live/HuNWShd-5M/live.m3u8
